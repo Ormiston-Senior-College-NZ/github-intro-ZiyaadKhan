@@ -1,4 +1,4 @@
-#My Whakapapa
+My Whakapapa
 
 I live with my Mum, Dad and Sister
 
@@ -12,7 +12,7 @@ I speak English and Hindi
 
 
 
-#My Interests
+My Interests
 
 Gym excersie, Athletics, Gaming 
 
@@ -22,7 +22,7 @@ No part time jobs at the momement
 
 
 
-#My Future Goals
+My Future Goals
 
 Get Excellence endorsement
 
