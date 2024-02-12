@@ -1,7 +1,10 @@
 My Whakapapa
 I live with my Mum, Dad and Sister
+
 My family comes from Fiji, Suva and Ba
+
 I was born in New Zealand 
+
 I speak English and Hindi
 
 
